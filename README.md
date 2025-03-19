@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kurapicu
+- 👋 Hi, I’m @nathan.dev
 - 👀 I’m interested in ..creating software.
 - 🌱 I’m currently learning mms
 - 💞️ I’m looking to collaborate on many projects
